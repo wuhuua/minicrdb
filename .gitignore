@@ -1,0 +1,4 @@
+minicrdb*
+testdb*
+*.log
+DS_Store
